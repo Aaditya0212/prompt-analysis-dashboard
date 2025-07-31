@@ -6,6 +6,16 @@ This project processes raw prompt log data into a clean, structured dataset read
 
 The goal of this project is to prepare a dataset that enables effective analysis of prompt interactions, user engagement, session patterns, and version-based performance. The final output is a CSV file optimized for use in Power BI dashboards.
 
+## Dashboard Preview
+
+### Page 1: KPI Summary, Usage, and Segmentation
+
+![Dashboard Page 1](1.png)
+
+### Page 2: Feedback Ratings and Success Metrics
+
+![Dashboard Page 2](2.png)
+
 ## Features
 
 - Data cleaning and missing value handling
